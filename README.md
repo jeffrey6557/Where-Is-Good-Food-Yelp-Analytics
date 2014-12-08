@@ -4,7 +4,7 @@ Final Project, Harvard MATH 156. Chang Liu and Jennifer Le Hégaret
 
 **Introduction**
 
-Chang’s personal inspiration for doing a Yelp analytics project comes from his college year, where he was stuck in where there was little access to his favorite: Chinese food. Struggling to find out which restaurant to go to when there was finally a chance, he was obsessed with Yelp; knowing more statistics, he was inspired to dig into the business secrets of Yelp – reviews and rating – and find out more, hence the project. 
+Chang’s personal inspiration for doing a Yelp analytics project comes from his college years, where he was stuck in where there was little access to his favorite: Chinese food. Struggling to find out which restaurant to go to when there was finally a chance, he was obsessed with Yelp; knowing more statistics, he was inspired to dig into the business secrets of Yelp – reviews and rating – and find out more, hence the project. 
 
 **Data**
 
