@@ -1,8 +1,8 @@
 Where-Is-Good-Food-Yelp-Analytics
 =================================
-Final Project, Harvard MATH 156. Chang Liu and Jennifer Le Hégaret
+Chang Liu and Jennifer Le Hégaret
 
-You can view the presentation at my R pub profile: http://rpubs.com/jeffrey6557/52256
+You can view the project presentation for my Harvard class MATH 156. at my R pub profile: http://rpubs.com/jeffrey6557/52256
 
 **Introduction**
 
